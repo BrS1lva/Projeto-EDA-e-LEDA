@@ -39,7 +39,7 @@
     <p align="left">
       <img src="https://user-images.githubusercontent.com/92695624/155892894-161d996f-b419-428e-9881-4fe4a2628096.jpg" />
     </p>
-2.  copie os datasets que foram preparados para a pasta onde foi salvo o projeto  
+2.  copie os datasets que foram preparados para a pasta onde o projeto foi salvo.  
     - Certifique-se que os nomes estejam corretos: `googleplaystore_date.csv` , `googleplaystore_genres.csv`
 3. Abra o *Main.java* e execute.
 4. Escolha o algoritmo de ordenação que sera utilizado.
