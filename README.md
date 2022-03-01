@@ -18,7 +18,7 @@
 2. Análise dos algoritmos de ordenação
     - Implemente e utilize todos os algoritmos de ordenação estudados (Selection Sort, Insertion Sort, Merge Sort, Quick Sort, QuickSort com Mediana de 3, counting, e HeapSort) para ordenar os registros de acordo com os seguintes parâmetros:
         - Ordenar o arquivo completo de listagens pelo nomes dos aplicativos (campo App) em ordem alfabética
-        - Ordenar o arquivo completo de listagens pelas notas de avaliação (campo ratings) dos lugares do menor para o maior
+        - Ordenar o arquivo completo de listagens pelas notas de avaliação (campo ratings) dos apps do menor para o maior
         - Ordenar o arquivo completo de listagens pelos número de instalações (campo installs) dos aplicativos do menor para o maior
         - Ordenar o arquivo completo de listagens pela data de última atualização (campo last_update) dos aplicativos do mais recente para o mais antigo.
     - Cada arquivo de saída de ordenação deve ser gerado com base no método de ordenação e no elemento ordenado. Por exemplo, para o quick sort devem ser gerado 3 arquivos: qSort_ordena_reviews.csv e qSort_ordena_prices.csv, qSort_ordena_places.csv. Isso deve continuar para cada um dos métodos de ordenação e para cada um dos projetos.
