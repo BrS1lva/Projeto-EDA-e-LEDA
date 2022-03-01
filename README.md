@@ -14,7 +14,6 @@
         - Selecione todas as células que você deseja formatar.
         - Vá para **`Formatar > Número`** no menu da planilha e escolha o formato de data DD/MM/AAAA.
         - Faça o download e renomeie o arquivo para: `googleplaystore_date.csv`
-        - Renomeie o arquivo para 
     - Efetuar a transformaçao de filtrar pelo genero diretamente no site do dataset, baixar e renomear para: `googleplaystore_genres.csv`
 2. Análise dos algoritmos de ordenação
     - Implemente e utilize todos os algoritmos de ordenação estudados (Selection Sort, Insertion Sort, Merge Sort, Quick Sort, QuickSort com Mediana de 3, counting, e HeapSort) para ordenar os registros de acordo com os seguintes parâmetros:
